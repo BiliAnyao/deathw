@@ -1,0 +1,9 @@
+name: Deathw
+version: '${version}'
+main: com.lm.Deathw
+api-version: 1.16
+#注册指令
+commands:
+  Deathw:
+    description: "LM"
+    aliases: dw

@@ -1,0 +1,9 @@
+name: Deathw
+version: '1.0-SNAPSHOT'
+main: com.lm.HealthHungerPlugin
+api-version: 1.16
+#注册指令
+commands:
+  Deathw:
+    description: "LM"
+    aliases: dw
